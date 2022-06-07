@@ -4,7 +4,7 @@
 <p>🔭 I'm currently majoring in Software Engineer.</p>
 <p>👯  I'm studying web development at Driven Education.</p>
 <p>🌱 I'm currently learning NodeJS, TypeScript, DataBase</p>
-<p>⚡ Fun Fact: Linux lover and supporter</p>
+<p>⚡ Fun Fact: Linux admirer and defender</p>
 
 ## 💻 Skills
 <p>
@@ -22,7 +22,7 @@
 ## 👥 Connect With Me
 <p>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/joaocamargo2002/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
-<a href = "mailto:contato@joaocamargo2002"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href = "mailto:joaovcamargo2002@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </p>
 
 ## 📊 Github Status
