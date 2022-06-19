@@ -2,8 +2,8 @@
 
 ## 💫 Liitle Bit More About Me
 <p>🔭 I'm currently majoring in Software Engineer.</p>
-<p>👯  I'm studying web development at Driven Education.</p>
-<p>🌱 I'm currently learning NodeJS, TypeScript, DataBase</p>
+<p>🖥  I'm studying web development at Driven Education.</p>
+<p>📖 I'm currently learning NodeJS, TypeScript, DataBase</p>
 <p>⚡ Fun Fact: Linux admirer and defender</p>
 
 ## 💻 Skills
